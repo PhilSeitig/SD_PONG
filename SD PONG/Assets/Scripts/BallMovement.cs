@@ -1,6 +1,8 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.UI;
+using UnityEngine.SceneManagement;
 
 public class BallMovement : MonoBehaviour
 {
@@ -15,8 +17,8 @@ public class BallMovement : MonoBehaviour
 
     public Vector3 spawnPoint;
 
-    //public Text playerText;
-    //public Text aiText;
+    public Text playerText;
+    public Text aiText;
 
     // Start is called before the first frame update
     void Start()
@@ -32,17 +34,15 @@ public class BallMovement : MonoBehaviour
     void Update()
     {
         this.transform.position += direction * speed;
-        //playerText.text = playerScore.ToString();
-        //aiText.text = aiScore.ToString();
 
-        //if (playerScore == 10)
-        //{
-        //    SceneManager.LoadScene("Winner");
-        //}
-        //else if (aiScore == 10)
-        //{
-        //    SceneManager.LoadScene("Loser");
-        //}
+        if (playerScore == 10)
+        {
+            SceneManager.LoadScene("Winner");
+        }
+        else if (aiScore == 10)
+        {
+            SceneManager.LoadScene("Loser");
+        }
 
     }
 
@@ -56,15 +56,15 @@ public class BallMovement : MonoBehaviour
     { 
         if (trigger.gameObject.name == "WallTop")
         {
-            Debug.Log("Top");
-            //playerScore++;
+            playerScore++;
+            playerText.text = "Player " + playerScore.ToString();
             transform.position = spawnPoint;
         }
 
         if (trigger.gameObject.name == "WallBottom")
         {
-            Debug.Log("Bottom");
-            //aiScore++;
+            aiScore++;
+            aiText.text = aiScore.ToString() + " AI";
             transform.position = spawnPoint;
         }
     }
