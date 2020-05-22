@@ -9,6 +9,6 @@ public class GameOver : MonoBehaviour
     // Start is called before the first frame update
     public void ButtonClick()
     {
-        SceneManager.LoadScene("LevelEins");
+        SceneManager.LoadScene("Main");
     }
 }

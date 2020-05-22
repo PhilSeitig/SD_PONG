@@ -54,14 +54,14 @@ public class BallMovement : MonoBehaviour
 
     void OnTriggerEnter(Collider trigger)
     { 
-        if (trigger.gameObject.name == "WallTop")
+        if (trigger.gameObject.name == "Oben")
         {
             playerScore++;
             playerText.text = "Player " + playerScore.ToString();
             transform.position = spawnPoint;
         }
 
-        if (trigger.gameObject.name == "WallBottom")
+        if (trigger.gameObject.name == "Unten")
         {
             aiScore++;
             aiText.text = aiScore.ToString() + " AI";
