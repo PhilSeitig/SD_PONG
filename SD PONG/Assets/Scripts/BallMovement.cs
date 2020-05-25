@@ -50,18 +50,15 @@ public class BallMovement : MonoBehaviour
     {
         Vector3 normal = col.contacts[0].normal;
         direction = Vector3.Reflect(direction, normal);
-    }
 
-    void OnTriggerEnter(Collider trigger)
-    { 
-        if (trigger.gameObject.name == "Oben")
+        if (col.gameObject.name == "Oben")
         {
             playerScore++;
             playerText.text = "Player " + playerScore.ToString();
             transform.position = spawnPoint;
         }
 
-        if (trigger.gameObject.name == "Unten")
+        if (col.gameObject.name == "Unten")
         {
             aiScore++;
             aiText.text = aiScore.ToString() + " AI";
