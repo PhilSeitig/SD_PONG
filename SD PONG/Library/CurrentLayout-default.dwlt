@@ -75,6 +75,7 @@ MonoBehaviour:
     x: 1531
     y: 0
 <<<<<<< HEAD
+<<<<<<< HEAD
     width: 389
     height: 947
   m_MinSize: {x: 276, y: 71}
@@ -85,6 +86,8 @@ MonoBehaviour:
   m_Selected: 0
   m_LastSelected: 0
 =======
+=======
+>>>>>>> parent of c562bf3... Würfelrand
     width: 1920
     height: 30
   m_MinSize: {x: 0, y: 0}
@@ -108,6 +111,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 0
 <<<<<<< HEAD
+<<<<<<< HEAD
     y: 0
     width: 379
     height: 524
@@ -119,6 +123,8 @@ MonoBehaviour:
   m_Selected: 0
   m_LastSelected: 0
 =======
+=======
+>>>>>>> parent of c562bf3... Würfelrand
     y: 977
     width: 1920
     height: 20
@@ -161,6 +167,9 @@ MonoBehaviour:
   m_MaxSize: {x: 18004, y: 18063}
   vertical: 0
   controlID: 116
+<<<<<<< HEAD
+>>>>>>> parent of c562bf3... Würfelrand
+=======
 >>>>>>> parent of c562bf3... Würfelrand
 --- !u!114 &6
 MonoBehaviour:
@@ -183,17 +192,23 @@ MonoBehaviour:
     x: 0
     y: 0
 <<<<<<< HEAD
+<<<<<<< HEAD
     width: 1920
     height: 997
   m_MinSize: {x: 875, y: 542}
   m_MaxSize: {x: 10000, y: 10000}
 =======
+=======
+>>>>>>> parent of c562bf3... Würfelrand
     width: 462
     height: 947
   m_MinSize: {x: 231, y: 613}
   m_MaxSize: {x: 10001, y: 18063}
   vertical: 1
   controlID: 122
+<<<<<<< HEAD
+>>>>>>> parent of c562bf3... Würfelrand
+=======
 >>>>>>> parent of c562bf3... Würfelrand
 --- !u!114 &7
 MonoBehaviour:
@@ -213,12 +228,15 @@ MonoBehaviour:
     x: 0
     y: 0
 <<<<<<< HEAD
+<<<<<<< HEAD
     width: 1920
     height: 30
   m_MinSize: {x: 0, y: 0}
   m_MaxSize: {x: 0, y: 0}
   m_LastLoadedLayoutName: 
 =======
+=======
+>>>>>>> parent of c562bf3... Würfelrand
     width: 462
     height: 396
   m_MinSize: {x: 201, y: 221}
@@ -246,12 +264,15 @@ MonoBehaviour:
     serializedVersion: 2
     x: 0
 <<<<<<< HEAD
+<<<<<<< HEAD
     y: 977
     width: 1920
     height: 20
   m_MinSize: {x: 0, y: 0}
   m_MaxSize: {x: 0, y: 0}
 =======
+=======
+>>>>>>> parent of c562bf3... Würfelrand
     y: 396
     width: 462
     height: 418
@@ -282,6 +303,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 0
 <<<<<<< HEAD
+<<<<<<< HEAD
     y: 0
     width: 1531
     height: 947
@@ -290,6 +312,8 @@ MonoBehaviour:
   vertical: 1
   controlID: 57
 =======
+=======
+>>>>>>> parent of c562bf3... Würfelrand
     y: 814
     width: 462
     height: 133
@@ -319,6 +343,7 @@ MonoBehaviour:
   m_Position:
     serializedVersion: 2
 <<<<<<< HEAD
+<<<<<<< HEAD
     x: 0
     y: 0
     width: 1531
@@ -330,6 +355,10 @@ MonoBehaviour:
 =======
     x: 462
     y: 0
+=======
+    x: 462
+    y: 0
+>>>>>>> parent of c562bf3... Würfelrand
     width: 894
     height: 947
   m_MinSize: {x: 202, y: 221}
@@ -358,6 +387,7 @@ MonoBehaviour:
   m_Position:
     serializedVersion: 2
 <<<<<<< HEAD
+<<<<<<< HEAD
     x: 379
     y: 0
     width: 1152
@@ -368,6 +398,10 @@ MonoBehaviour:
 =======
     x: 1356
     y: 0
+=======
+    x: 1356
+    y: 0
+>>>>>>> parent of c562bf3... Würfelrand
     width: 564
     height: 947
   m_MinSize: {x: 276, y: 71}
@@ -402,12 +436,15 @@ MonoBehaviour:
   m_Pos:
     serializedVersion: 2
 <<<<<<< HEAD
+<<<<<<< HEAD
     x: 468
     y: 181
     width: 973
     height: 501
   m_ViewDataDictionary: {fileID: 0}
 =======
+=======
+>>>>>>> parent of c562bf3... Würfelrand
     x: 462
     y: 73
     width: 892
@@ -561,9 +598,15 @@ MonoBehaviour:
     serializedVersion: 2
     x: 0
 <<<<<<< HEAD
+<<<<<<< HEAD
     y: 597
     width: 1530
     height: 402
+=======
+    y: 469
+    width: 461
+    height: 397
+>>>>>>> parent of c562bf3... Würfelrand
 =======
     y: 469
     width: 461
@@ -588,9 +631,15 @@ MonoBehaviour:
   m_StartGridSize: 64
   m_LastFolders:
 <<<<<<< HEAD
+<<<<<<< HEAD
   - Assets
   m_LastFoldersGridSize: -1
   m_LastProjectPath: C:\Users\b92sc\Documents\GitHub\SD_PONG\SD PONG
+=======
+  - Assets/Scripts
+  m_LastFoldersGridSize: 32
+  m_LastProjectPath: C:\Users\Benjamin Schneider\Documents\GitHub\SD_PONG\SD PONG
+>>>>>>> parent of c562bf3... Würfelrand
 =======
   - Assets/Scripts
   m_LastFoldersGridSize: 32
@@ -608,6 +657,9 @@ MonoBehaviour:
     m_SelectedIDs: 7c410000
     m_LastClickedID: 16764
     m_ExpandedIDs: 000000007441000076410000784100007a4100007c4100007e41000000ca9a3b
+<<<<<<< HEAD
+>>>>>>> parent of c562bf3... Würfelrand
+=======
 >>>>>>> parent of c562bf3... Würfelrand
     m_RenameOverlay:
       m_UserAcceptedRename: 0
@@ -637,7 +689,11 @@ MonoBehaviour:
     m_SelectedIDs: 
     m_LastClickedID: 0
 <<<<<<< HEAD
+<<<<<<< HEAD
     m_ExpandedIDs: 0000000040380000423800004438000046380000483800004a3800004c3800004e380000
+=======
+    m_ExpandedIDs: 000000007441000076410000784100007a4100007c4100007e410000
+>>>>>>> parent of c562bf3... Würfelrand
 =======
     m_ExpandedIDs: 000000007441000076410000784100007a4100007c4100007e410000
 >>>>>>> parent of c562bf3... Würfelrand
@@ -757,9 +813,15 @@ MonoBehaviour:
     serializedVersion: 2
     x: 0
 <<<<<<< HEAD
+<<<<<<< HEAD
     y: 73
     width: 378
     height: 503
+=======
+    y: 887
+    width: 461
+    height: 112
+>>>>>>> parent of c562bf3... Würfelrand
 =======
     y: 887
     width: 461
@@ -817,15 +879,21 @@ MonoBehaviour:
   m_Pos:
     serializedVersion: 2
 <<<<<<< HEAD
+<<<<<<< HEAD
     x: 379
     y: 73
     width: 1150
     height: 503
 =======
+=======
+>>>>>>> parent of c562bf3... Würfelrand
     x: 462
     y: 73
     width: 892
     height: 926
+<<<<<<< HEAD
+>>>>>>> parent of c562bf3... Würfelrand
+=======
 >>>>>>> parent of c562bf3... Würfelrand
   m_ViewDataDictionary: {fileID: 0}
   m_ShowContextualTools: 0
@@ -839,9 +907,15 @@ MonoBehaviour:
   m_AudioPlay: 0
   m_Position:
 <<<<<<< HEAD
+<<<<<<< HEAD
     m_Target: {x: 10.74585, y: 12.692359, z: 31.90311}
     speed: 2
     m_Value: {x: 10.74585, y: 12.692359, z: 31.90311}
+=======
+    m_Target: {x: -1.1116787, y: -10.021595, z: 14.881302}
+    speed: 2
+    m_Value: {x: -1.1116787, y: -10.021595, z: 14.881302}
+>>>>>>> parent of c562bf3... Würfelrand
 =======
     m_Target: {x: -1.1116787, y: -10.021595, z: 14.881302}
     speed: 2
@@ -893,6 +967,7 @@ MonoBehaviour:
     m_gridOpacity: 0.5
   m_Rotation:
 <<<<<<< HEAD
+<<<<<<< HEAD
     m_Target: {x: -0.046762604, y: -0.035671324, z: 0.001670951, w: -0.9982673}
     speed: 2
     m_Value: {x: -0.04676507, y: -0.03417389, z: 0.0016008057, w: -0.9983199}
@@ -903,11 +978,18 @@ MonoBehaviour:
 =======
     m_Target: {x: 0.27538982, y: -0.0078164255, z: 0.0022361232, w: 0.96131426}
     speed: 2
+=======
+    m_Target: {x: 0.27538982, y: -0.0078164255, z: 0.0022361232, w: 0.96131426}
+    speed: 2
+>>>>>>> parent of c562bf3... Würfelrand
     m_Value: {x: 0.27537763, y: -0.010700164, z: 0.0030622343, w: 0.9612717}
   m_Size:
     m_Target: 28.945145
     speed: 2
     m_Value: 30.309052
+<<<<<<< HEAD
+>>>>>>> parent of c562bf3... Würfelrand
+=======
 >>>>>>> parent of c562bf3... Würfelrand
   m_Ortho:
     m_Target: 0
@@ -1047,14 +1129,20 @@ MonoBehaviour:
   m_Pos:
     serializedVersion: 2
 <<<<<<< HEAD
+<<<<<<< HEAD
     x: 8
     y: 718
     width: 1366
     height: 308
 =======
+=======
+>>>>>>> parent of c562bf3... Würfelrand
     x: 1356
     y: 73
     width: 563
     height: 926
+<<<<<<< HEAD
+>>>>>>> parent of c562bf3... Würfelrand
+=======
 >>>>>>> parent of c562bf3... Würfelrand
   m_ViewDataDictionary: {fileID: 0}
