@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 ﻿{"cameraMode":{"drawMode":0,"name":"Shaded","section":"Shading Mode"},"sceneLighting":true,"audioPlay":false,"sceneViewState":{"showFog":true,"showMaterialUpdate":false,"showSkybox":true,"showFlares":true,"showImageEffects":true,"showParticleSystems":true},"in2DMode":false,"pivot":{"x":20.249879837036134,"y":128.28744506835938,"z":79.91108703613281},"rotation":{"x":0.19759047031402589,"y":-0.0014700547326356173,"z":0.0002963013539556414,"w":0.9802869558334351},"size":141.9652557373047,"orthographic":false}
+=======
+﻿{"cameraMode":{"drawMode":0,"name":"Shaded","section":"Shading Mode"},"sceneLighting":true,"audioPlay":false,"sceneViewState":{"showFog":true,"showMaterialUpdate":false,"showSkybox":true,"showFlares":true,"showImageEffects":true,"showParticleSystems":true},"in2DMode":false,"pivot":{"x":-1.1116787195205689,"y":-10.021595001220704,"z":14.881301879882813},"rotation":{"x":0.27538982033729555,"y":-0.007816425524652005,"z":0.0022361231967806818,"w":0.9613142609596252},"size":28.945144653320314,"orthographic":false}
+>>>>>>> parent of c562bf3... Würfelrand
